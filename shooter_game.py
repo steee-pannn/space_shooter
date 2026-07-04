@@ -9,7 +9,7 @@ lose = font1.render('YOU LOSE!', True, (180, 0, 0))
 
 
 font2 = font.Font(None, 36)
-
+print("hello")
 
 #background music
 mixer.init()
